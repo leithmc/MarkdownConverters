@@ -1,0 +1,10 @@
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\2md.exe.config
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\obj\Debug\2md.csprojResolveAssemblyReference.cache
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\2md.exe
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\2md.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\HtmlAgilityPack.dll
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\HtmlAgilityPack.xml
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\obj\Debug\2md.exe
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\obj\Debug\2md.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\2md.project\2md\bin\Debug\Newtonsoft.Json.dll

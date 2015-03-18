@@ -1,0 +1,19 @@
+c:\users\v-leithm\documents\visual studio 2013\Projects\md2hxs\md2hxs\bin\Debug\md2hxs.exe.config
+C:\Users\v-leithm\Documents\Visual Studio 2013\Projects\md2hxs\md2hxs\bin\Debug\md2hxs.exe
+C:\Users\v-leithm\Documents\Visual Studio 2013\Projects\md2hxs\md2hxs\bin\Debug\md2hxs.pdb
+C:\Users\v-leithm\Documents\Visual Studio 2013\Projects\md2hxs\md2hxs\obj\Debug\md2hxs.csprojResolveAssemblyReference.cache
+C:\Users\v-leithm\Documents\Visual Studio 2013\Projects\md2hxs\md2hxs\obj\Debug\md2hxs.exe
+C:\Users\v-leithm\Documents\Visual Studio 2013\Projects\md2hxs\md2hxs\obj\Debug\md2hxs.pdb
+C:\Users\v-leithm\CPUB.docs.kinect\Tools\md2hxs.project\bin\Debug\md2hxs.exe.config
+C:\Users\v-leithm\CPUB.docs.kinect\Tools\md2hxs.project\obj\Debug\md2hxs.exe
+C:\Users\v-leithm\CPUB.docs.kinect\Tools\md2hxs.project\obj\Debug\md2hxs.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\md2hxs.exe.config
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\obj\Debug\md2hxs.exe
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\obj\Debug\md2hxs.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\md2hxs.exe
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\md2hxs.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\obj\Debug\md2hxs.csprojResolveAssemblyReference.cache
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\v-leithm\CPUB.tools\MarkdownTools\md2hxs.project\bin\Debug\Newtonsoft.Json.dll
